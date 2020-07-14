@@ -1,6 +1,6 @@
 ### Hi there 👋
 <center>
-  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="400px">
+  <img src="https://github.com/Ravinderbaid/Ravinderbaid/blob/master/developer.gif" width="400px">
 </center>
 
 🌱 **I’m currently learning Ruby**
